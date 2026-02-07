@@ -1,0 +1,10 @@
+{
+  "name": "logsnap",
+  "version": "1.0.0",
+  "description": "Real-time log watcher & analyzer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
