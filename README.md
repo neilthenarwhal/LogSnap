@@ -9,7 +9,7 @@ It watches a log file live, analyzes severity levels, and highlights important e
 ## ✨ Features
 
 - Live log tailing
-- Error / warning detection
+- Error/warning detection
 - Keyword filtering
 - Real-time stats dashboard
 - No libraries, no nonsense
@@ -20,6 +20,6 @@ It watches a log file live, analyzes severity levels, and highlights important e
 
 ### Install
 ```bash
-git clone https://github.com/yourname/logsnap
+git clone https://github.com/neilthenarwhal/logsnap
 cd logsnap
 npm start
